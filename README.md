@@ -67,3 +67,16 @@
 7. Open `http://localhost:8000` in your browser.
 
 
+## Features
+
+### Structure
+
+*   Departmets
+    *   Schedule
+    *   Courses
+    *   Students
+
+
+*   Notifications
+    *   Auto
+    *   Manual
