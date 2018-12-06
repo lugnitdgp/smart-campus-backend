@@ -50,8 +50,11 @@
 
     ```
 
+5.  Copy the `.env.example` file and rename it to `.env`.
+    Add/Edit the `.env` file as per your requirement.
 
-5.  Migrate your database and run the Django Development Server.
+
+6.  Migrate your database and run the Django Development Server.
 
     ```
     python manage.py makemigrations
@@ -59,10 +62,6 @@
     python manage.py runserver
 
     ```
-
-    
-6.  Copy the `.env.example` file and rename it to `.env`.
-    Add/Edit the `.env` file as per your requirement.
 
 
 7. Open `http://localhost:8000` in your browser.
