@@ -71,3 +71,5 @@
         *   Auto
         *   Manual
     *   Students
+    
+#### Click [here](https://github.com/arc9693/smart-campus-backend/tree/master/wireframes) to view wireframes.
