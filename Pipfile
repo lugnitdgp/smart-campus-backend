@@ -11,6 +11,8 @@ python-decouple = "*"
 djangorestframework = "*"
 markdown = "*"
 django-filter = "*"
+restframework-simplejwt = "*"
+djangorestframework-simplejwt = "*"
 
 [requires]
 python_version = "3.5"
