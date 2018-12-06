@@ -10,14 +10,20 @@
 
     ```
 
+
     If you prefer to use **Pipenv** , then 
 
     ```
+    git clone https://github.com/lugnitdgp/smart-campus-backend.git
+
+    cd smart-campus-backend
+
     pipenv install
 
     pipenv shell
-
     ```
+
+    Now , skip to Step 7 :)
 
 2. Clone the project in the same directory.
 
