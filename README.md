@@ -45,5 +45,10 @@
 
     ```
 
-8. Open `http://localhost:8000` in your browser.
+    
+8.  Copy the `.env.example` file and rename it to `.env`.
+    Add/Edit the `.env` file as per your requirement.
+
+
+9. Open `http://localhost:8000` in your browser.
 
