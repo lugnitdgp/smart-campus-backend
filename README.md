@@ -23,7 +23,7 @@
     pipenv shell
     ```
 
-    Now , skip to Step 7 :)
+    Now , skip to Step 5 :)
 
 2. Clone the project in the same directory.
 
@@ -51,7 +51,7 @@
     ```
 
 
-7.  Migrate your database and run the Django Development Server.
+5.  Migrate your database and run the Django Development Server.
 
     ```
     python manage.py makemigrations
@@ -61,10 +61,10 @@
     ```
 
     
-8.  Copy the `.env.example` file and rename it to `.env`.
+6.  Copy the `.env.example` file and rename it to `.env`.
     Add/Edit the `.env` file as per your requirement.
 
 
-9. Open `http://localhost:8000` in your browser.
+7. Open `http://localhost:8000` in your browser.
 
 
