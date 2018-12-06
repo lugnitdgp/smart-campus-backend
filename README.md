@@ -10,6 +10,15 @@
 
     ```
 
+    If you prefer to use **Pipenv** , then 
+
+    ```
+    pipenv install
+
+    pipenv shell
+
+    ```
+
 2. Clone the project in the same directory.
 
     ```
