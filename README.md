@@ -21,7 +21,7 @@
 
     #### For Linux/Mac OSX   
     ```
-    source dajngo-env/bin/activate
+    source django-env/bin/activate
 
     ```
     ### For Windows
@@ -51,4 +51,5 @@
 
 
 9. Open `http://localhost:8000` in your browser.
+
 
