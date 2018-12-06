@@ -1,5 +1,7 @@
 ### Python ###
 # Byte-compiled / optimized / DLL files
+
+
 __pycache__/
 *.py[cod]
 
@@ -43,5 +45,13 @@ coverage.xml
 __pycache__/
 local_settings.py
 
+
 .env
 db.sqlite3
+db.sqlite3-journal
+
+##Pylint
+.pylintrc
+
+##
+main/migrations/00*
