@@ -10,6 +10,21 @@
 
     ```
 
+
+    If you prefer to use **Pipenv** , then 
+
+    ```
+    git clone https://github.com/lugnitdgp/smart-campus-backend.git
+
+    cd smart-campus-backend
+
+    pipenv install
+
+    pipenv shell
+    ```
+
+    Now , skip to Step 5 :)
+
 2. Clone the project in the same directory.
 
     ```
@@ -21,7 +36,7 @@
 
     #### For Linux/Mac OSX   
     ```
-    source dajngo-env/bin/activate
+    source django-env/bin/activate
 
     ```
     ### For Windows
@@ -36,7 +51,7 @@
     ```
 
 
-7.  Migrate your database and run the Django Development Server.
+5.  Migrate your database and run the Django Development Server.
 
     ```
     python manage.py makemigrations
@@ -46,9 +61,10 @@
     ```
 
     
-8.  Copy the `.env.example` file and rename it to `.env`.
+6.  Copy the `.env.example` file and rename it to `.env`.
     Add/Edit the `.env` file as per your requirement.
 
 
-9. Open `http://localhost:8000` in your browser.
+7. Open `http://localhost:8000` in your browser.
+
 
