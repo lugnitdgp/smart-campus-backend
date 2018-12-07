@@ -1,6 +1,8 @@
 ### Python ###
 # Byte-compiled / optimized / DLL files
 
+#VSCOde
+.vscode/
 
 __pycache__/
 *.py[cod]
